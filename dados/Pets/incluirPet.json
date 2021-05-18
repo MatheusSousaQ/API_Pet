@@ -1,0 +1,18 @@
+{
+  "id": 1997,
+  "category": {
+    "id": 0,
+    "name": "gato"
+  },
+  "name": "miau",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "adocao"
+    }
+  ],
+  "status": "available"
+}
